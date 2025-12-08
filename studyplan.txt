@@ -1,0 +1,79 @@
+"""
+PYTHON MASTERY TOPICS — CLEAN NOTE VERSION
+Only the essential topics you must know to confidently say you understand Python.
+"""
+
+# 1. BASIC CONCEPTS
+# - Variables
+# - Data types (int, float, str, bool, list, tuple, dict, set)
+# - Type casting
+# - Input/output
+# - f-strings
+
+# 2. CONTROL FLOW
+# - if / elif / else
+# - for loops
+# - while loops
+# - break, continue, pass
+# - List comprehension
+
+# 3. FUNCTIONS
+# - def keyword
+# - Default parameters
+# - Return values
+# - Lambda functions
+# - Positional vs keyword arguments
+
+# 4. DATA STRUCTURES
+# - List operations
+# - Dictionary CRUD
+# - Tuple characteristics
+# - Set operations
+# - Nested structures
+
+# 5. ERROR HANDLING
+# - try / except
+# - Multiple exceptions
+# - finally
+# - Custom error raising
+
+# 6. FILE HANDLING
+# - Reading files
+# - Writing files
+# - with open()
+# - JSON handling
+
+# 7. MODULES & PACKAGES
+# - Importing modules
+# - Built-in modules
+# - Installing packages (pip)
+# - Virtual environments
+
+# 8. OBJECT-ORIENTED PROGRAMMING (OOP)
+# - Classes & objects
+# - __init__ method
+# - Instance & class methods
+# - Inheritance
+# - Encapsulation
+# - Magic methods
+
+# 9. INTERMEDIATE CONCEPTS
+# - Generators (yield)
+# - Iterators
+# - Decorators
+# - *args and **kwargs
+# - __main__ usage
+
+# 10. ALGORITHMIC PRACTICE TOPICS
+# - String manipulation
+# - List operations
+# - Dictionary frequency maps
+# - Sorting logic
+# - Basic two-pointer patterns
+
+# 11. MINI PROJECT AREAS
+# - To‑do app
+# - Calculator
+# - Weather/API app
+# - Expense tracker
+# - Small games
