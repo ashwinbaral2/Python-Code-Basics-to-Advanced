@@ -134,4 +134,23 @@ if purchase_amount > 1000:
 else:
     print("No discount applicable")
 
+    '''
+    # Exam Eligibility Checker
+    # ----------------------------
+    # If attendance is above 75%, check if assignment submission is complete.
+    #   - If complete → print "Eligible for exam"
+    #   - Else → print "Submit assignments first"
+    # If attendance is below 75% → print "Not enough attendance"
+    '''
+    attendance = float(input("Enter your Attendance % : "))
+
+if attendance > 75:
+    assignment_status = input("Enter your assignment status (Complete/Incomplete) : ").strip().lower()
+    if assignment_status == "complete":
+        print("Eligible for exam")
+    else:
+        print("Complete your assignment first!")
+else:
+    print("Not enough Attendance !")
+
 

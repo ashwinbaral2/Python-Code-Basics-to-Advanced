@@ -1,0 +1,30 @@
+
+
+SSH and GPG key==> used for user identification and security.
+
+Basically, you have 2 keys... private and public keys 
+private keys are not meant to be shared with anyone except your own device 
+public key can be shared with anyone...
+
+public key helps you identify yourself amongst users and private key seperates you from everyone
+which verifies you as yourself to the server(Github).
+
+commands used: 
+IN VS CODE terminal: ssh-keygen
+you enter the file path to find .ssh file and there you can find your private key.
+to find your public key: open git bash and enter the following command;
+cat ~/.ssh/id_ed25519.pub
+
+you can enter this code into the following path: github.com/settings/keys---> as New SSH Key under the name of your device.
+
+github ---> n8n
+
+git commands:
+git init .
+git status 
+git add filename/git add .
+git remote add origin git@github.com:ashwinbaral2/Python-Code.git(ssh link from repository)
+git push origin master 
+git config --global user,
+
+
