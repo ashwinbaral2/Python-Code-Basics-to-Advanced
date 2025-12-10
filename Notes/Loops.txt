@@ -1,0 +1,7 @@
+operators :
+
+in 
+not in
+
+while loop -- infinite loop
+for loop -- infinite loop
